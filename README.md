@@ -9,4 +9,4 @@
 # Welcome to ENTR-451
 
 This is an example of a GitHub repository.
-first edits in github.
+now using gitpod instead of github.
